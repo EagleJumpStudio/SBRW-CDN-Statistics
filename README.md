@@ -1,2 +1,4 @@
-# SBRW-CDN-Statistics
-Statistics Collected from DavidCarbon, hosting Soapbox Race World Game Files
+Choose the Year to view Bandwidth Data:
+- [2020]
+
+[2020]: https://eaglejumpstudio.github.io/SBRW-CDN-Statistics/2020
